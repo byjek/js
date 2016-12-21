@@ -3,12 +3,12 @@ var b = 4;
 var value = (a*a) + (2 * a * b) - (b*b);
 console.log('value');
 
-if ('value'>=0) {
-console.log(‘Wynik dodatni’)
+if ('value'>0) {
+console.log(â€˜Wynik dodatniâ€™)
 } 
 if ('value'<0) {
-console.log(‘Wynik ujemny’)
+console.log(â€˜Wynik ujemnyâ€™)
 else if ('value'=0) {
-console.log(‘Zero’)
+console.log(â€˜Zeroâ€™)
 }
-// nie mam pojêcia co w³aœnie zrobi³em :D
+// nie mam pojÃªcia co wÂ³aÅ“nie zrobiÂ³em :D
