@@ -1,10 +1,10 @@
 function getTriangleArea(a, h) {
 
-  if (a, h>=0) {
-  console.log('Nieprawid≥owe dane')
-  } 
+  if (a>=0) || (h>=1) {
+  console.log('Nieprawid≈Çowe dane')
   return 'a*h/2';
-
+  } 
+  
 }
 
 console.log( getTriangleArea(10,6) )
