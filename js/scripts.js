@@ -1,7 +1,6 @@
-var womensNames = ['Asia', 'Kasia', 'Ola', 'Jola'];
-var mensNames = ['Piotrek', 'Marek', 'Arek', 'Jarek'];
-var allNames = mensNames.concat(womensNames);
-var newName ='Marian';
-if allNames.indexOf(newName) == -1 {
-  allNames.push(newName);
-}
+var text='Papugi kosz¹ trawê, unosz¹c siê nad ziemi¹ 15 centymetrów, na czerwonych dywanach.'
+var slonie='Zielone s³onie'
+var slonieUpperCased = slonie.toUpperCase();
+var motto = 'Niebieskie kanarki zawsze spadaj¹ na cztery ³apy.';
+var textCharsAfter = slonie.replace('Papugi');
+console.log(txt.length/2);
